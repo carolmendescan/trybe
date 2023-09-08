@@ -4,7 +4,7 @@
 
 This repository contains all learning activities developed by *[Ana Carolina Silva Oliveira Mendes![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/carolmendes-can/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
 
-*Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, Trybe offers one method of payment where the students only start paying when they get a good job.*
+*Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, Trybe offers a method of payment where the students only start paying when they get a good job.*
 
 The program has more than *1500 hours* of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
@@ -160,7 +160,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 6 -->
   <details>
-  <summary>Block 16: State Management with Redux :heavy_check_mark:</summary>
+  <summary>Block 6: State Management with Redux :heavy_check_mark:</summary>
 
   > - [X] 6-1: *Introduction to Redux - the overall state of the application*
   > - [X] 6-2: *Using Redux in React*
@@ -264,7 +264,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 6-2: *ORM - Associations 1:1 and 1:N*
   > - [x] 6-3: *ORM - Associacions N:N and Transactions*
   > - [x] 6-4: *JWT - JSON Web Token*
-  > - [x] 24-3: *Project - Blogs API*
+  > - [x] *Project - Blogs API*
 
   </details>
 

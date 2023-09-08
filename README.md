@@ -2,13 +2,13 @@
 
 ### Finished in 2023
 
-This repository contains all learning activities developed by *[Ana Carolina Mendes![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/carolmendes-can/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
+This repository contains all learning activities developed by *[Ana Carolina Silva Oliveira Mendes![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/carolmendes-can/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
 
-*Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job.*
+*Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, Trybe offers one method of payment where the students only start paying when they get a good job.*
 
 The program has more than *1500 hours* of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
-<!-- MODULO 1 - INTRODUÇÃO -->
+<!-- MODULO 1 - FUNDAMENTALS -->
 ## Fundamentals of Web Development :heavy_check_mark:
 <details>
   <summary>See more about Introduction Web Development module</summary><br>
@@ -315,71 +315,45 @@ The program has more than *1500 hours* of classroom and online classes and cover
 ## ​Computer Science :heavy_check_mark:
 <details>
   <summary>See more about ​Computer Science module</summary>
-  <!-- BLOCK 34 -->
+  <!-- BLOCK 1 -->
   <details>
-  <summary>Block 34: Introduction - Computer Science :heavy_check_mark:</summary>
+  <summary>Block 1: Learning Python :heavy_check_mark:</summary>
 
-  > - [x] 34-1: *Introduction - Computer Science*
-  > - [x] 34-2: *Computers Architecture*
-  > - [x] 34-3: *Computers networks, tools and security*
-  > - [x] 34-4: *Project - Exploring protocols*
+  > - [x] 1-1: *Learning Python*
+  > - [x] 1-2: *Test Data Input and Output*
 
   </details>
 
-  <!-- BLOCK 35 -->
+  <!-- BLOCK 2 -->
   <details>
-  <summary>Block 35: Python :heavy_check_mark:</summary>
+  <summary>Block 2: Algorithms :heavy_check_mark:</summary>
 
-  > - [x] 35-1: *Learning Python*
-  > - [x] 35-2: *Tests and Exceptions*
-  > - [x] 35-3: *Data Input and Output*
-  > - [x] 35-4: *Data Scraping*
-  > - [x] 35-5: *Project - Tech news*
+  > - [x] 2-1: *Complexity of Algorithms*
+  > - [x] 2-2: *Problem Solving Recursivity and Strategies*
+  > - [x] 2-3: *Ordination and search algorithms*
+  > - [x] *Project - Algorithms*
 
   </details>
 
-  <!-- BLOCK 36 -->
+  <!-- BLOCK 3 -->
   <details>
-  <summary>Block 36: Object Oriented Programming :heavy_check_mark:</summary>
+  <summary>Block 3: Data Structure I: Linear Lists :heavy_check_mark:</summary>
 
-  > - [x] 36-1: *Introduction to object oriented programming*
-  > - [x] 36-2: *Object oriented programming in practice*
-  > - [x] 36-3: *Project patterns*
-  > - [x] 36-4: *Project - Stock Reports*
+  > - [x] 3-1: *Python P.O.O*
+  > - [x] 3-2: *Arrays*
+  > - [x] 3-3: *Node and Chained Lists*
+  > - [x] 3-4: *Batteries and Queues*
+  > - [x] *Project - TING - Trybe is Not Google*
 
   </details>
 
-  <!-- BLOCK 37 -->
+  <!-- BLOCK 4 -->
   <details>
-  <summary>Block 37: Data Structure I :heavy_check_mark:</summary>
+  <summary>Block 4: Data Structure I :heavy_check_mark:</summary>
 
-  > - [x] 37-1: *Data Structure I - Arrays*
-  > - [x] 37-2: *Data Structure I - Algorithms Complexity*
-  > - [x] 37-3: *Recursion and Strategies to solve problems*
-  > - [x] 37-4: *Sorting and Searching Algorithms*
-  > - [x] 37-5: *Project - Algorithms*
-
-  </details>
-
-  <!-- BLOCK 38 -->
-  <details>
-  <summary>Block 38: Data Structure II :heavy_check_mark:</summary>
-
-  > - [x] 38-1: *Data Structure II - Hash maps & Dict*
-  > - [x] 38-2: *Data Structure II - Set*
-  > - [x] 38-3: *Project - Restaurant Orders*
-
-  </details>
-
-  <!-- BLOCK 39 -->
-  <details>
-  <summary>Block 39: Data Structure III :heavy_check_mark:</summary>
-
-  > - [x] 39-1: *Data Structure III - Stacks*
-  > - [x] 39-2: *Data Structure III - Deque*
-  > - [x] 39-3: *Data Structure III - Node and Connected Lists*
-  > - [x] 39-4: *Data Structure III - Doubly Connected Lists*
-  > - [x] 39-5: *Project - TING - Trybe Is Not Google*
+  > - [x] 4-1: *Hashmap and Dict*
+  > - [x] 4-2: *Set*
+  > - [x] *Project - Restaurant Orders Project*
 
   </details>
 </details>

@@ -8,7 +8,7 @@ This repository contains all learning activities developed by *[Ana Carolina Sil
 
 The program has more than *1500 hours* of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
-<!-- MODULO 1 - FUNDAMENTALS -->
+<!-- MODULE 1 - FUNDAMENTALS -->
 ## Fundamentals of Web Development :heavy_check_mark:
 <details>
   <summary>See more about Introduction Web Development module</summary><br>
@@ -95,7 +95,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
 </details>
 
-<!-- MODULO 2 - FRONT-END -->
+<!-- MODULE 2 - FRONT-END -->
 ## Front-end Development :heavy_check_mark:
 <details>
   <summary>​See more about Front-end Development module</summary><br>
@@ -192,7 +192,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
 ​</details>
 
-<!-- MODULO 3 - BACK-END -->
+<!-- MODULE 3 - BACK-END -->
 ## Back-end Development :heavy_check_mark:
 <details>
   <summary>​See more about Back-end Development module</summary>
@@ -311,7 +311,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
 </details>
 
-<!-- MODULO 4 - COMPUTER SCIENCE -->
+<!-- MODULE 4 - COMPUTER SCIENCE -->
 ## ​Computer Science :heavy_check_mark:
 <details>
   <summary>See more about ​Computer Science module</summary>
@@ -354,6 +354,59 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 4-1: *Hashmap and Dict*
   > - [x] 4-2: *Set*
   > - [x] *Project - Restaurant Orders Project*
+
+  </details>
+<!-- MODULE ELECTIVE CERTIFICATION - JAVA -->
+## JAVA :heavy_check_mark:
+<details>
+  <summary>See more about JAVA module</summary>
+  <!-- BLOCK 1 -->
+  <details>
+  <summary>Programming logic :heavy_check_mark:</summary>
+
+  > - [x] *Conditional and repetition structures*
+  > - [x] *Functions, parameters and arguments*
+
+  <summary>Docker: Using Containers :heavy_check_mark:</summary>
+
+  > - [x] *Basic knowledge in docker*
+  > - [x] *Knowledge of the Dockerfile and docker-compose structure*
+
+  <summary>Introduction to the Database :heavy_check_mark:</summary>
+
+  > - [x] *Knowledge of basic relational database modeling*
+  > - [x] *Knowledge in SQL Language ( Searches, Inserts, Updates and Removals )*
+
+  <summary>Layer Architecture :heavy_check_mark:</summary>
+
+  > - [x] *Knowledge in MSC architecture ( Model-Service-Controller )*
+
+  <summary>ORM and Authentication :heavy_check_mark:</summary>
+
+  > - [x] *Knowledge in Object Relational Mapper*
+  > - [x] *Knowledge in Token JWT and authentication methods*
+
+  <summary>Object Oriented Programming ( POO ) :heavy_check_mark:</summary>
+
+  > - [x] *Basic knowledge of object orientation pillars*
+
+  <summary>Introduction to Web Development :heavy_check_mark:</summary>
+
+  > - [x] *Knowledge in client-server architecture*
+  > - [x] *Knowledge of HTTP and its verbs, REST API*
+
+  <summary>Tests :heavy_check_mark:</summary>
+
+  > - [x] *Knowledge in integration tests*
+  > - [x] *Knowledge in unit tests*
+
+  <summary>Data Structure I and II :heavy_check_mark:</summary>
+
+  > - [x] *Basic knowledge of Arrays, Lists, Queues, Batteries, Hashmaps and Sets*
+
+  <summary>Deployment of Cloud Applications :heavy_check_mark:</summary>
+
+  > - [x] *Basic knowledge in CI / CD*
 
   </details>
 </details>

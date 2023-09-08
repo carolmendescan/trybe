@@ -356,6 +356,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] *Project - Restaurant Orders Project*
 
   </details>
+
 <!-- MODULE ELECTIVE CERTIFICATION - JAVA -->
 ## JAVA :heavy_check_mark:
 <details>
@@ -367,43 +368,70 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] *Conditional and repetition structures*
   > - [x] *Functions, parameters and arguments*
 
+  </details>
+
+  <details>
   <summary>Docker: Using Containers :heavy_check_mark:</summary>
 
   > - [x] *Basic knowledge in docker*
   > - [x] *Knowledge of the Dockerfile and docker-compose structure*
 
+  </details>
+
+  <details>
   <summary>Introduction to the Database :heavy_check_mark:</summary>
 
   > - [x] *Knowledge of basic relational database modeling*
   > - [x] *Knowledge in SQL Language ( Searches, Inserts, Updates and Removals )*
 
+  </details>
+
+  <details>
   <summary>Layer Architecture :heavy_check_mark:</summary>
 
   > - [x] *Knowledge in MSC architecture ( Model-Service-Controller )*
 
+  </details>
+
+  <details>
   <summary>ORM and Authentication :heavy_check_mark:</summary>
 
   > - [x] *Knowledge in Object Relational Mapper*
   > - [x] *Knowledge in Token JWT and authentication methods*
 
+  </details>
+
+  <details>
   <summary>Object Oriented Programming ( POO ) :heavy_check_mark:</summary>
 
   > - [x] *Basic knowledge of object orientation pillars*
 
+  </details>
+
+  <details>
   <summary>Introduction to Web Development :heavy_check_mark:</summary>
 
   > - [x] *Knowledge in client-server architecture*
   > - [x] *Knowledge of HTTP and its verbs, REST API*
 
+  </details>
+
+  <details>
   <summary>Tests :heavy_check_mark:</summary>
 
   > - [x] *Knowledge in integration tests*
   > - [x] *Knowledge in unit tests*
 
+  </details>
+
+  <details>
   <summary>Data Structure I and II :heavy_check_mark:</summary>
 
   > - [x] *Basic knowledge of Arrays, Lists, Queues, Batteries, Hashmaps and Sets*
 
+  </details>
+  
+  <details>
   <summary>Deployment of Cloud Applications :heavy_check_mark:</summary>
 
   > - [x] *Basic knowledge in CI / CD*

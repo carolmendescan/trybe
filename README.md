@@ -356,6 +356,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] *Project - Restaurant Orders Project*
 
   </details>
+</details>
 
 <!-- MODULE ELECTIVE CERTIFICATION - JAVA -->
 ## JAVA :heavy_check_mark:
@@ -430,7 +431,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] *Basic knowledge of Arrays, Lists, Queues, Batteries, Hashmaps and Sets*
 
   </details>
-  
+
   <details>
   <summary>Deployment of Cloud Applications :heavy_check_mark:</summary>
 

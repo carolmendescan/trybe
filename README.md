@@ -1,134 +1,96 @@
 # TRYBE :rocket: - My journey to become a full-stack dev
 
-### Finished in 2018
+### Finished in 2023
 
-This repository contains all learning activities developed by *[Guilherme Silva Oliveira![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/guilhermesilva-oliveira/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
+This repository contains all learning activities developed by *[Ana Carolina Mendes![linkedIn](https://user-images.githubusercontent.com/64224044/92247653-e5267380-ee9d-11ea-995b-bbaede677424.png)](https://www.linkedin.com/in/carolmendes-can/)*  while studying at [TRYBE](https://www.betrybe.com/) :rocket:
 
 *Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job.*
 
 The program has more than *1500 hours* of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
 <!-- MODULO 1 - INTRODUÇÃO -->
-## Introduction Web Development :heavy_check_mark:
+## Fundamentals of Web Development :heavy_check_mark:
 <details>
   <summary>See more about Introduction Web Development module</summary><br>
   <!-- BLOCK 1 -->
   <details>
-  <summary>Block 1: Unix, Bash and Shell Script :heavy_check_mark:</summary><br>
+  <summary>Block 1: Unix, Shell and Git :heavy_check_mark:</summary><br>
 
-  > - [x] 1-3: *Setup*
-  > - [x] 1-3: *Fundamentals of Web Development*
-  > - [x] 1-3: *Introduction - Unix & Shell*
-  > - [x] 1-3: *Unix & Bash - Part 1*
-  > - [x] 1-4: *Unix & Bash - Part 2*
-  > - [x] 1-5: *Shell Script*
+  > - [x] 1-1: *Unix & Shell*
+  > - [x] 1-2: *Git - what it is and what it is for*
+  > - [x] 1-3: *Git & GitHub - Understanding the commands*
 
   </details>
   <!-- BLOCK 2 -->
   <details>
-  <summary>Block 2: Git, GitHub and Internet :heavy_check_mark:</summary><br>
+  <summary>Block 2: Introduction to HTML & CSS :heavy_check_mark:</summary><br>
 
-  > - [x] 2-1: *Git & GitHub - What it is and what it is for*
-  > - [x] 2-2: *Git & GitHub - Understanding the commands*
-  > - [x] 2-3: *Internet - Understanding how it works*
+  > - [x] 2-1: *HTML & CSS - Page structures*
+  > - [x] 2-2: *HTML & CSS - Getting Started with CSS*
+  > - [x] 2-3: *HTML & CSS - Selectors and positioning*
+  > - [x] 2-4: *HTML Semantic*
+  > - [x] *Project - Lessons Leaarned*
 
   </details>
   <!-- BLOCK 3 -->
   <details>
-  <summary>Block 3: Introduction to HTML and CSS :heavy_check_mark:</summary><br>
+  <summary>Block 3: Introduction to JavaScript  :heavy_check_mark:</summary><br>
 
-  > - [x] 3-1: *Introduction - HTML & CSS*
-  > - [x] 3-1: *HTML & CSS - Page structures*
-  > - [x] 3-2: *HTML & CSS - Getting Started with CSS*
-  > - [x] 3-3: *HTML & CSS - Selectors and positioning*
-  > - [x] 3-4: *Semantic HTML*
-  > - [x] *Project - HTML & CSS*
+  > - [x] 3-1: *First steps in JavaScript*
+  > - [x] 3-2: *Array and reptition structure*
+  > - [x] 3-3: *Functions*
+  > - [x] 3-4: *Objects*
+  > - [x] 3-5: *JSON and practice day*
+  > - [x] *Project - Playground Functions*
 
   </details>
   <!-- BLOCK 4 -->
   <details>
-  <summary>Block 4: Introduction - JavaScript :heavy_check_mark:</summary><br>
+  <summary>Block 4: JavaScript: DOM, Events and Web Storage :heavy_check_mark:</summary><br>
 
-  > - [x] 4-1: *Introduction - JavaScript*4-1: *JavaScript - Getting Started*
-  > - [x] 4-2: *JavaScript - Array and For Loop*
-  > - [x] 4-3: *JavaScript - Programming Logic and Algorithms*
-  > - [x] 4-4: *Objects and functions*
+  > - [x] 4-1: *JavaScript - DOM and selectors*
+  > - [x] 4-2: *JavaScript - Working with elements*
+  > - [x] 4-3: *JavaScript - Events*
+  > - [x] 4-4: *JavaScript - Web Storage*
+  > - [x] *Project - Art with Pixels*
+  > - [x] *(Bonus) Project - To Do List*
 
   </details>
 
   <!-- BLOCK 5 -->
   <details>
-  <summary>Block 5: Introduction - JavaScript - Projects :heavy_check_mark:</summary><br>
+  <summary>Block 5: HTML and CSS: Forms, Flexbox e Responsive - Projects :heavy_check_mark:</summary><br>
 
-  > - [x] 5-1: *JavaScript - DOM and selectors*
-  > - [x] 5-2: *JavaScript - Working with elements*
-  > - [x] 5-3: *JavaScript - Events*
-  > - [x] 5-4: *JavaScript - Web Storage*
-  > - [x] 5-5: *Introduction - JavaScript - Projects*
-  > - [x] *Project - Meme Generator*
-  > - [x] *Project - Art with Pixels*
-  > - [x] *Project - Task List*
-  > - [x] 5-7: *(Bonus) Project - Guess the Color*
-  > - [x] 5-7: *(Bonus) Project - Mysterious Card*
+  > - [x] 5-1: *HTML & CSS - Forms*
+  > - [x] 5-2: *JavaScript libraries and CSS frameworks*
+  > - [x] 5-3: *CSS Flexbox - Part 1*
+  > - [x] 5-4: *CSS Flexbox - Part 2*
+  > - [x] 5-5: *Responsiveness*
+  > - [x] *Project - Trybewarts*
 
   </details>
 
   <!-- BLOCK 6 -->
   <details>
-  <summary>Block 6: Introduction - Front-end :heavy_check_mark:</summary><br>
+  <summary>Block 6: JavaScript ES6 & Unit Tests :heavy_check_mark:</summary><br>
 
-  > - [x] 6-1: *Introduction - Front-end*
-  > - [x] 6-1: *HTML & CSS - Forms*
-  > - [x] 6-2: *JavaScript libraries and CSS frameworks*
-  > - [x] 6-3: *Introduction - CSS Flexbox*
-  > - [x] 6-3: *CSS Flexbox - Part 1*
-  > - [x] 6-4: *CSS Flexbox - Part 2*
-  > - [x] 6-5: *Responsive CSS - Mobile First*
-  > - [x] *Project - Facebook home*
+  > - [x] 6-1: *Flow of exceptions*
+  > - [x] 6-2: *First steps in Jest*
+  > - [x] 6-3: *Matchers and code coverage*
+  > - [x] *Project - JavaScript Unit Tests*
 
   </details>
 
   <!-- BLOCK 7 -->
   <details>
-  <summary>Block 7: JavaScript ES6 & Unit Tests :heavy_check_mark:</summary><br>
+  <summary>Block 7: Array Methods :heavy_check_mark:</summary><br>
 
-  > - [x] 7-1: *JavaScript ES6 - let, const, arrow functions and template literals*
-  > - [x] 7-2: *JavaScript ES6 - Objects*
-  > - [x] 7-3: *JavaScript unit tests*
-  > - [x] *Project - JavaScript Unit Tests*
-
-  </details>
-
-  <!-- BLOCK 8 -->
-  <details>
-  <summary>Block 8: JavaScript ES6 :heavy_check_mark:</summary>
-
-  > - [x] 8-1: *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
-  > - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map and filter*
-  > - [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
-  > - [x] 8-4: *JavaScript ES6 - spread operator, rest parameter, destructuring and more*
-  > - [x] *Project - Zoo functions*
-
-  </details>
-
-  <!-- BLOCK 9 -->
-  <details>
-  <summary>Block 9: Asynchronicity & Callbacks :heavy_check_mark:</summary>
-
-  > - [x] 9-1: *Asynchronous JavaScript and Callbacks*
-  > - [x] 9-2: *JavaScript Promises*
-  > - [x] *Project - Shopping Cart*
-
-  </details>
-
-  <!-- BLOCK 10 -->
-  <details>
-  <summary>Block 10: Jest :heavy_check_mark:</summary>
-
-  > - [x] 10-1: *First steps at Jest*
-  > - [x] 10-2: *Jest - Asynchronous Tests*
-  > - [x] 10-3: *Jest - Simulating behaviors*
-  > - [x] *Project - Asynchronous Jest and Mocking*
+  > - [x] 7-1: *Array Methods - map*
+  > - [x] 7-2: *Array Methods - filter and sort*
+  > - [x] 7-3: *Array Methods - find and forEach*
+  > - [x] 7-3: *Array Methods - reduce*
+  > - [x] 7-3: *Live Coding*
+  > - [x] *Project - Zoo Functions*
 
   </details>
 </details>
@@ -137,94 +99,95 @@ The program has more than *1500 hours* of classroom and online classes and cover
 ## Front-end Development :heavy_check_mark:
 <details>
   <summary>​See more about Front-end Development module</summary><br>
-  <!-- BLOCK 11 -->
+  <!-- BLOCK 1 -->
   <details>
-  <summary>Block 11: Introduction - React :heavy_check_mark:</summary>
+  <summary>Block 1: Introduction to Frontend and asynchronous JavaScript :heavy_check_mark:</summary>
 
-  > - [x] 11-1: *Introduction - React*
-  > - [x] 11-1: *'Hello, world!' in React!*
-  > - [x] 11-2: *React Components*
-  > - [x] *Project - Movie Cards Library*
+  > - [x] 1-1: *IDevelopment environment*
+  > - [x] 1-2: *Asynchronous JavaScript - Promises and fetch*
+  > - [x] 1-3: *Review - House of exchange*
+  > - [x] 1-4: *Async, await and asynchronous tests*
+  > - [x] *Project - Magic Card*
+  > - [x] *Project - Shopping Cart*
 
   </details>
 
-  <!-- BLOCK 12 -->
+  <!-- BLOCK 2 -->
   <details>
-  <summary>Block 12: React :heavy_check_mark:</summary>
+  <summary>Block 2: Introduction to React :heavy_check_mark:</summary>
 
-  > - [x] 12-1: *Components with status and events*
-  > - [x] 12-2: *React  forms*
-  > - [x] *Project - Movie Cards Library Stateful*
+  > - [x] 2-1: *Introduction to React and Typescript*
+  > - [x] 2-2: *React and Props components*
+  > - [x] 2-3: *Advancing in components*
+  > - [x] 2-4: *State and events*
+  > - [x] 2-5: *Forms*
+  > - [x] *Project - Solar System*
 
   </details>
 
-  <!-- BLOCK 13 -->
+  <!-- BLOCK 3 -->
   <details>
-  <summary>Block 13: React :heavy_check_mark:</summary>
+  <summary>Block 3: Deepening in React :heavy_check_mark:</summary>
 
-  > - [x] 13-1: *Components life cycle*
-  > - [x] 13-2: *React Router*
-  > - [x] *Project - Movie Cards Library CRUD*
+  > - [x] 3-1: *React Router*
+  > - [x] 3-2: *useEffect*
+  > - [x] *Project - Tryunfo*
+  > - [x] *Project - Trybetunes*
 
   </details>
 
-  <!-- BLOCK 14 -->
+  <!-- BLOCK 4 -->
   <details>
-  <summary>Block 14: Agile Methodologies :heavy_check_mark:</summary>
+  <summary>Block 4: Automated testing with React Testing Library :heavy_check_mark:</summary>
 
-  > - [x] 14-1: *Agile Methodologies*
-  > - [x] *Project - Frontend Online Store*
-
-  </details>
-
-  <!-- BLOCK 15 -->
-  <details>
-  <summary>Block 15: Automated Tests with React Testing Library :heavy_check_mark:</summary>
-
-  > - [x] 15-1: *RTL - First steps*
-  > - [x] 15-2: *RTL - Mocks and Inputs*
-  > - [x] 15-3: *RTL - Testing React Router*
+  > - [x] 4-1: *Introduction to React Testing Library*
+  > - [x] 4-2: *RTL: Mocks*
+  > - [x] 4-3: *RTL: Testing with React Router*
   > - [x] *Project - React Tests*
 
   </details>
 
-  <!-- BLOCK 16 -->
+  <!-- BLOCK 5 -->
+  <details>
+  <summary>Block 5: Agile Stylization and Methodology :heavy_check_mark:</summary>
+
+  > - [x] 5-1: *CSS Modules*
+  > - [x] 5-2: *Styled Components*
+  > - [x] 5-3: *Agile methodologies*
+  > - [x] *Project - Frontend Online Store*
+
+  </details>
+
+  <!-- BLOCK 6 -->
   <details>
   <summary>Block 16: State Management with Redux :heavy_check_mark:</summary>
 
-  > - [X] 16-1: *Introduction to Redux*
-  > - [X] 16-2: *React with Redux - Part 1*
-  > - [X] 16-3: *React with Redux - Practice*
-  > - [X] 16-4: *React with Redux - Part 2*
-  > - [X] 16-5: *Synchronous tests with React-Redux*
-  > - [x] *Project - Wallet*
+  > - [X] 6-1: *Introduction to Redux - the overall state of the application*
+  > - [X] 6-2: *Using Redux in React*
+  > - [X] 6-3: *Review - Using Redux in React*
+  > - [X] 6-4: *Using Redux in React - Asynchronous Actions*
+  > - [X] 6-5: *React - Redux tests*
+  > - [x] *Project - TrybeWallet*
 
   </details>
 
-  <!-- BLOCK 17 -->
+  <!-- BLOCK 7 -->
   <details>
-  <summary>Block 17: Project Trivia Game :heavy_check_mark:</summary>
+  <summary>Block 7: Project Trivia Game :heavy_check_mark:</summary>
 
+  > - [X] 7-1: *Class Components*
+  > - [X] 7-2: *Context API*
+  > - [X] 7-3: *Custom Hooks*
   > - [x] *Project - Trivia Game*
+  > - [x] *Project - StarWars*
 
   </details>
 
-  <!-- BLOCK 18 -->
+  <!-- BLOCK 8 -->
   <details>
-  <summary>Block 18: Context API and React Hooks :heavy_check_mark:</summary>
+  <summary>Block 8: Project Recipes app :heavy_check_mark:</summary>
 
-  > - [X] 18-1: *React Context API*
-  > - [X] 18-2: *React Hooks - useState and useContext*
-  > - [X] 18-3: *React Hooks - useEffect and custom Hooks*
-  > - [x] *Project - Datatable StarWars with Context API and Hooks*
-
-  </details>
-
-  <!-- BLOCK 19 -->
-  <details>
-  <summary>Block 19: Final Front-end Project :heavy_check_mark:</summary>
-
-  > - [x] *Project - Recipe App*
+  > - [X] 8-1: *Project - Recipes app*
 
   </details>
 ​</details>
@@ -233,157 +196,117 @@ The program has more than *1500 hours* of classroom and online classes and cover
 ## Back-end Development :heavy_check_mark:
 <details>
   <summary>​See more about Back-end Development module</summary>
-  <!-- BLOCK 20 -->
+  <!-- BLOCK 1 -->
   <details>
-  <summary>Block 20: Introduction - Relational Databases :heavy_check_mark:</summary>
+  <summary>Block 1: Docker: Using Containers:</summary>
 
-  > - [X] 20-1: *Introduction - Back-end*
-  > - [X] 20-1: *Introduction - Relational databases*
-  > - [X] 20-1: *SQL database*
-  > - [X] 20-2: *Finding data in a database*
-  > - [X] 20-3: *Filtering data specifically*
-  > - [X] 20-4: *Manipulating tables*
-  > - [X] 20-5: *Project - All For One*
+  > - [X] 1-1: *Using Containers - Docker*
+  > - [X] 1-2: *Manipulating Images in Docker*
+  > - [X] 1-3: *Orchestrating Containers with Docker Compose*
+  > - [X] *Project - Docker All-List*
 
   </details>
 
-  <!-- BLOCK 21 -->
+  <!-- BLOCK 2 -->
   <details>
-  <summary>Block 21: Relational Databases :heavy_check_mark:</summary>
+  <summary>Block 2: Introduction to SQL :heavy_check_mark:</summary>
 
-  > - [X] 21-1: *Most used functions in SQL*
-  > - [X] 21-2: *Uncomplicating JOINs and UNIONs*
-  > - [X] 21-3: *Stored Routines & Subqueries*
-  > - [X] 21-4: *Project - Vocabulary Booster*
+  > - [X] 2-1: *SQL database*
+  > - [X] 2-2: *Finding data in database*
+  > - [X] 2-3: *Filtering data in a specific way*
+  > - [X] 2-4: *Manipulating tables*
+  > - [X] *Project - All For One*
 
   </details>
 
-  <!-- BLOCK 22 -->
+  <!-- BLOCK 3 -->
   <details>
-  <summary>Block 22: Relational Databases :heavy_check_mark:</summary>
+  <summary>Block 3: SQL, JOINs and Standardization functions :heavy_check_mark:</summary>
 
-  > - [X] 22-1: *Transforming ideas into a database model*
-  > - [X] 22-2: *Normalization, Normal Shapes and Dumps*
-  > - [X] 22-3: *Transforming ideas into a database model - Part 2*
-  > - [X] 21-4: *Project - One For All*
+  > - [X] 3-1: *Functions most used in SQL*
+  > - [X] 3-2: *Uncomplicating JOINs*
+  > - [X] 3-3: *Transforming ideas into a database model *
+  > - [X] *Project - One For All*
 
   </details>
 
-  <!-- BLOCK 23 -->
+  <!-- BLOCK 4 -->
   <details>
-  <summary>Block 23: Introduction - NoSQL :heavy_check_mark:</summary>
+  <summary>Block 4: Introduction - Web development with Node.js :heavy_check_mark:</summary>
 
-  > - [x] 23-1: *Introduction - NoSQL*
-  > - [x] 23-2: *MongoDB - Introduction*
-  > - [x] 23-3: *Filter Operators*
-  > - [x] 23-4: *Project - Data Flights*
+  > - [x] 4-1: *Node.js: Asynchronous Runtime*
+  > - [x] 4-2: *Node.js: REST API with Express*
+  > - [x] 4-3: *Node.js: Integration Tests*
+  > - [x] 4-4: *Node.js: Express and Middlewares*
+  > - [x] 4-5: *Node.js: Express and MySQL*
+  > - [x] *Project - Talker Manager*
 
   </details>
 
-  <!-- BLOCK 24 -->
+  <!-- BLOCK 5 -->
   <details>
-  <summary>Block 24: Updates :heavy_check_mark:</summary>
+  <summary>Block 5: Updates :heavy_check_mark:</summary>
 
-  > - [x] 24-1: *Simple Updates*
-  > - [x] 24-2: *Complex Updates - Arrays*
-  > - [x] 24-3: *Reads & Searchs - Arrays*
-  > - [x] 24-4: *Project - Commerce*
+  > - [x] 5-1: *Software Architecture: Model Layer*
+  > - [x] 5-2: *Software Architecture: Refactoring Model Layer*
+  > - [x] 5-3: *Software Architecture: Layer Service*
+  > - [x] 5-4: *Software Architecture: Refactoring Layer Service*
+  > - [x] 5-5: *Software Architecture: Refactoring Layer Controllerr*
+  > - [x] *Project - Store Manager*
 
   </details>
 
-  <!-- BLOCK 25 -->
+  <!-- BLOCK 6 -->
   <details>
-  <summary>Block 25: Aggregation Framework :heavy_check_mark:</summary>
+  <summary>Block 6: Node.js: ORM and Authentication :heavy_check_mark:</summary>
 
-  > - [x] 25-1: *Aggregation Framework - Part 1*
-  > - [x] 25-2: *Aggregation Framework - Part 2*
-  > - [x] 24-3: *Project - Aggregations*
+  > - [x] 6-1: *ORM - Application interface with database*
+  > - [x] 6-2: *ORM - Associations 1:1 and 1:N*
+  > - [x] 6-3: *ORM - Associacions N:N and Transactions*
+  > - [x] 6-4: *JWT - JSON Web Token*
+  > - [x] 24-3: *Project - Blogs API*
 
   </details>
 
-  <!-- BLOCK 26 -->
+  <!-- BLOCK 7 -->
   <details>
-  <summary>Block 26: NodeJS Introduction :heavy_check_mark:</summary>
+  <summary>Block 7: Masterclass: Deployment of Cloud Applications :heavy_check_mark:</summary>
 
-  > - [x] 26-1: *What It Is - NodeJS*
-  > - [x] 26-1: *NodeJS - Introduction*
-  > - [x] 26-2: *NodeJS - Asynchronous Flow*
-  > - [x] 26-3: *NodeJS - Tests*
-  > - [x] 26-4: *Express: HTTP with Node.js*
-  > - [x] 26-5: *Practicing Express*
-  > - [x] 26-6: *Project - Crush Manager*
+  > - [x] 7-1: *Infrastructure: Deploy with Railway*
 
   </details>
 
-  <!-- BLOCK 27 -->
+  <!-- BLOCK 8 -->
   <details>
-  <summary>Block 27: NodeJS Software Architecture :heavy_check_mark:</summary>
+  <summary>Block 8: Introduction to TypeScript :heavy_check_mark:</summary>
 
-  > - [x] 27-1: *Software Architecture - Introduction*
-  > - [x] 27-1: *Software Architecture - Model Layer*
-  > - [x] 27-2: *Software Architecture - Controller & Service Layer*
-  > - [x] 27-3: *Web Architecture - Rest & Restful*
-  > - [x] 27-4: *Software Architecture - Layers Tests*
-  > - [x] 27-5: *Project - Store Manager*
+  > - [x] 8-1: *Learning TypeScript*
+  > - [x] 8-2: *Introduction to Generics*
+  > - [x] 8-3: *REST API with Express, JWT, Sequelize and TypeScript*
+  > - [x] 8-4: *Testing Applications with TypeScript*
+  > - [x] *Project - Tribesmith*
 
   </details>
 
-  <!-- BLOCK 28 -->
+  <!-- BLOCK 9 -->
   <details>
-  <summary>Block 28: Node - JSON Web Token :heavy_check_mark:</summary>
+  <summary>Block 9: Object Oriented Programming - POO and SOLID :heavy_check_mark:</summary>
 
-  > - [x] 28-1: *NodeJS - JWT - (JSON Web Token)*
-  > - [x] 28-2: *NodeJS - Upload files with Multer*
-  > - [x] 28-3: *Project - Cookmaster version 2 ​*
+  > - [x] 9-1: *Introduction to Object Orientation*
+  > - [x] 9-2: *Heritage and Composition*
+  > - [x] 9-3: *Polymorphism ​*
+  > - [x] 9-4: *SOLID - Introduction and Principles S, O and D ​*
+  > - [x] 9-5: *SOLID - Principles L and I ​*
+  > - [x] *Project - Trybers and Dragons ​*
 
   </details>
 
-  <!-- BLOCK 29 -->
+  <!-- BLOCK 10 -->
   <details>
-  <summary>Block 29: Introduction - Deploy :heavy_check_mark:</summary>
+  <summary>Block 10: Trybe Futebol Club :heavy_check_mark:</summary>
 
-  > - [x] 29-1: *Introduction - Deploy*
-  > - [x] 29-1: *Infrastructure - Deploy with Heroku*
-  > - [x] 29-2: *Deploy - Process Managers*
-  > - [x] 29-3: *Project - Stranger Things*
-
-  </details>
-
-  <!-- BLOCK 30 -->
-  <details>
-  <summary>Block 30: Project - Trybeer 1.0 :heavy_check_mark:</summary>
-
-    > - [x] 30-1: *Project - Trybeer*
-
-  </details>
-
-  <!-- BLOCK 31 -->
-  <details>
-  <summary>Block 31: Architecture SOLID & ORM :heavy_check_mark:</summary>
-
-  > - [x] 31-1: *Architecture - SOLID Principles*
-  > - [x] 31-2: *ORM - Interface between application and database*
-  > - [x] 31-3: *Software Architecture - DDD*
-  > - [x] 31-4: *Good practices writing tests*
-  > - [x] 31-5: *Project - Blogs API*
-
-  </details>
-
-  <!-- BLOCK 32 -->
-  <details>
-  <summary>Block 32: Sockets :heavy_check_mark:</summary>
-
-  > - [x] 32-1: *Sockets - TCP/UDP & NET*
-  > - [x] 32-2: *Sockets - Socket.io*
-  > - [x] 32-3: *Project - Webchat*
-
-  </details>
-
-  <!-- BLOCK 33 -->
-  <details>
-  <summary>Block 33: Project - Trybeer 2.0 :heavy_check_mark:</summary>
-
-  > - [x] 33-1: *Project - Trybeer v2*
+  > - [x] 10-1: *Express with Classes*
+  > - [x] *Project - TFC - Trybe Futebol Club*
 
   </details>
 </details>

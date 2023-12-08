@@ -41,7 +41,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 3-3: *Functions*
   > - [x] 3-4: *Objects*
   > - [x] 3-5: *JSON and practice day*
-  > - [x] *Project - Playground Functions*
+  > - [x] *Project - [Playground Functions*](https://github.com/carolmendescan/trybe/blob/main/Playground%20functions/README.md)
 
   </details>
   <!-- BLOCK 4 -->

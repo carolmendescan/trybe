@@ -102,7 +102,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <!-- BLOCK 1 -->
   <details>
   <summary>Block 1: Introduction to Frontend and asynchronous JavaScript :heavy_check_mark:</summary>
-
+ 
   > - [x] 1-1: *IDevelopment environment*
   > - [x] 1-2: *Asynchronous JavaScript - Promises and fetch*
   > - [x] 1-3: *Review - House of exchange*

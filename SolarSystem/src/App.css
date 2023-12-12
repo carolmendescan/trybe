@@ -1,0 +1,140 @@
+/* html {
+  height: 100vh;
+  width: 100%;
+  background: url('./caminho da imagem'); quando for imagem é src.
+}; */
+
+body {
+  background-image: url('./images/background.png');
+  margin-top: 0;
+}
+
+.app_container {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.solarsis {
+  align-items: center;
+  display: flex;
+}
+
+.planetaNome {
+  text-align: center;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.missoes-container {
+  background: #f4f0f016;
+  border: 1px solid white;
+  border-radius: 30px;
+
+  /* background: rgba(239, 235, 235, 0.628) */
+  box-shadow: 0 4px 14px rgba(0, 0, 0.9);
+  width: 60%;
+}
+
+.mission-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.396);
+  border: 1px solid white;
+  border-radius: 17px;
+  font-size: 20px;
+  height: 18vh;
+  margin-top: 15px;
+  padding: 10px 0;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 0 20px blue;
+
+  /* background: white;
+  opacity: 0.1; */
+}
+
+.info-mission {
+  display: flex;
+  justify-content: space-around;
+
+  /* border-top: 1px solid white; */
+}
+
+.mission-name {
+  margin-left: 10%;
+}
+
+.text-mission {
+  font-size: 17px;
+  text-align: center;
+  width: 33%;
+}
+
+hr {
+  background-color: white;
+  border: 1px solid white;
+  width: 99.7%;
+}
+
+.hr-planets {
+  background-color: white;
+  border: 1px solid white;
+  margin-left: 15px;
+  position: absolute;
+  top: 49%;
+  width: 1100px;
+  z-index: -1;
+}
+
+#tit {
+  display: none;
+}
+
+/*
+.logo {
+height: 242.72px;
+width: 425.69px;
+margin-left: 380.80px;
+margin-top: 41.94px;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+.planetasTit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 503px;
+  margin-top: 44px;
+  border-radius: nullpx;
+
+  height: 60px;
+  width: 179px;
+}
+
+.solarsis {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.planetaNome {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+*/

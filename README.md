@@ -29,7 +29,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 2-2: *HTML & CSS - Getting Started with CSS*
   > - [x] 2-3: *HTML & CSS - Selectors and positioning*
   > - [x] 2-4: *HTML Semantic*
-  > - [x] *Project - Lessons Leaarned*
+  > - [x] *Project - Lessons Learned*
 
   </details>
   <!-- BLOCK 3 -->

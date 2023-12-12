@@ -29,7 +29,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 2-2: *HTML & CSS - Getting Started with CSS*
   > - [x] 2-3: *HTML & CSS - Selectors and positioning*
   > - [x] 2-4: *HTML Semantic*
-  > - [x] *Project - Lessons Learned*
+  > - [x] *Project - [Lessons Learned*](https://github.com/carolmendescan/trybe/blob/main/Lessons%20Learned/README.md)
 
   </details>
   <!-- BLOCK 3 -->
@@ -53,7 +53,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 4-3: *JavaScript - Events*
   > - [x] 4-4: *JavaScript - Web Storage*
   > - [x] *Project - Art with Pixels*
-  > - [x] *(Bonus) Project - To Do List*
+  > - [x] *(Bonus) Project - [To Do List*](https://github.com/carolmendescan/trybe/blob/main/To%20Do%20List/README.md)
 
   </details>
 
@@ -66,7 +66,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-3: *CSS Flexbox - Part 1*
   > - [x] 5-4: *CSS Flexbox - Part 2*
   > - [x] 5-5: *Responsiveness*
-  > - [x] *Project - Trybewarts*
+  > - [x] *Project - [Trybewarts*](https://github.com/carolmendescan/trybe/blob/main/Trybewarts/README.md)
 
   </details>
 
@@ -77,7 +77,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 6-1: *Flow of exceptions*
   > - [x] 6-2: *First steps in Jest*
   > - [x] 6-3: *Matchers and code coverage*
-  > - [x] *Project - JavaScript Unit Tests*
+  > - [x] *Project - [JavaScript Unit Tests*](https://github.com/carolmendescan/trybe/blob/main/JavaScript%20Unit%20Tests/README.md)
 
   </details>
 
@@ -90,7 +90,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 7-3: *Array Methods - find and forEach*
   > - [x] 7-3: *Array Methods - reduce*
   > - [x] 7-3: *Live Coding*
-  > - [x] *Project - Zoo Functions*
+  > - [x] *Project - [Zoo Functions*](https://github.com/carolmendescan/trybe/blob/main/ZooFunctions/README.md)
 
   </details>
 </details>
@@ -108,7 +108,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 1-3: *Review - House of exchange*
   > - [x] 1-4: *Async, await and asynchronous tests*
   > - [x] *Project - Magic Card*
-  > - [x] *Project - Shopping Cart*
+  > - [x] *Project - [Shopping Cart*](https://github.com/carolmendescan/trybe/blob/main/ShoppingCart/README.md)
 
   </details>
 
@@ -121,7 +121,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 2-3: *Advancing in components*
   > - [x] 2-4: *State and events*
   > - [x] 2-5: *Forms*
-  > - [x] *Project - Solar System*
+  > - [x] *Project - [Solar System*](https://github.com/carolmendescan/trybe/blob/main/SolarSystem/README.md)
 
   </details>
 
@@ -132,7 +132,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 3-1: *React Router*
   > - [x] 3-2: *useEffect*
   > - [x] *Project - Tryunfo*
-  > - [x] *Project - Trybetunes*
+  > - [x] *Project - [Trybetunes*](https://github.com/carolmendescan/trybe/blob/main/Trybetunes/README.md)
 
   </details>
 
@@ -143,7 +143,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 4-1: *Introduction to React Testing Library*
   > - [x] 4-2: *RTL: Mocks*
   > - [x] 4-3: *RTL: Testing with React Router*
-  > - [x] *Project - React Tests*
+  > - [x] *Project - [React Tests*](https://github.com/carolmendescan/trybe/blob/main/ReactTests/README.md)
 
   </details>
 
@@ -154,7 +154,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-1: *CSS Modules*
   > - [x] 5-2: *Styled Components*
   > - [x] 5-3: *Agile methodologies*
-  > - [x] *Project - Frontend Online Store*
+  > - [x] *Project - [Frontend Online Store*](https://github.com/carolmendescan/trybe/blob/main/FrontEnd%20OnlineStore/README.md)
 
   </details>
 
@@ -167,7 +167,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 6-3: *Review - Using Redux in React*
   > - [X] 6-4: *Using Redux in React - Asynchronous Actions*
   > - [X] 6-5: *React - Redux tests*
-  > - [x] *Project - TrybeWallet*
+  > - [x] *Project - [TrybeWallet*](https://github.com/carolmendescan/trybe/blob/main/TrybeWallet/README.md)
 
   </details>
 
@@ -178,8 +178,8 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 7-1: *Class Components*
   > - [X] 7-2: *Context API*
   > - [X] 7-3: *Custom Hooks*
-  > - [x] *Project - Trivia Game*
-  > - [x] *Project - StarWars*
+  > - [x] *Project - [Trivia Game*](https://github.com/carolmendescan/trybe/blob/main/Trivia%20Game/README.md)
+  > - [x] *Project - [StarWars*](https://github.com/carolmendescan/trybe/blob/main/StarWars/README.md)
 
   </details>
 
@@ -187,7 +187,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 8: Project Recipes app :heavy_check_mark:</summary>
 
-  > - [X] 8-1: *Project - Recipes app*
+  > - [X] 8-1: *Project - [Recipes app*](https://github.com/carolmendescan/trybe/blob/main/Recipes%20app/README.md)
 
   </details>
 ​</details>
@@ -203,7 +203,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 1-1: *Using Containers - Docker*
   > - [X] 1-2: *Manipulating Images in Docker*
   > - [X] 1-3: *Orchestrating Containers with Docker Compose*
-  > - [X] *Project - Docker All-List*
+  > - [X] *Project - [Docker All-List*](https://github.com/carolmendescan/trybe/blob/main/Docker%20All-List/README.md)
 
   </details>
 
@@ -215,7 +215,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 2-2: *Finding data in database*
   > - [X] 2-3: *Filtering data in a specific way*
   > - [X] 2-4: *Manipulating tables*
-  > - [X] *Project - All For One*
+  > - [X] *Project - [All For One*](https://github.com/carolmendescan/trybe/blob/main/All%20For%20One/README.md)
 
   </details>
 
@@ -226,7 +226,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 3-1: *Functions most used in SQL*
   > - [X] 3-2: *Uncomplicating JOINs*
   > - [X] 3-3: *Transforming ideas into a database model *
-  > - [X] *Project - One For All*
+  > - [X] *Project - [One For All*](https://github.com/carolmendescan/trybe/blob/main/One%20For%20All/README.md)
 
   </details>
 
@@ -239,7 +239,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 4-3: *Node.js: Integration Tests*
   > - [x] 4-4: *Node.js: Express and Middlewares*
   > - [x] 4-5: *Node.js: Express and MySQL*
-  > - [x] *Project - Talker Manager*
+  > - [x] *Project - [Talker Manager*](https://github.com/carolmendescan/trybe/blob/main/Talker%20Manager/README.md)
 
   </details>
 
@@ -252,7 +252,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-3: *Software Architecture: Layer Service*
   > - [x] 5-4: *Software Architecture: Refactoring Layer Service*
   > - [x] 5-5: *Software Architecture: Refactoring Layer Controllerr*
-  > - [x] *Project - Store Manager*
+  > - [x] *Project - [Store Manager*](https://github.com/carolmendescan/trybe/blob/main/Store%20Manager/README.md)
 
   </details>
 
@@ -264,7 +264,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 6-2: *ORM - Associations 1:1 and 1:N*
   > - [x] 6-3: *ORM - Associacions N:N and Transactions*
   > - [x] 6-4: *JWT - JSON Web Token*
-  > - [x] *Project - Blogs API*
+  > - [x] *Project - [Blogs API*](https://github.com/carolmendescan/trybe/blob/main/BlogsAPI/README.md)
 
   </details>
 
@@ -284,7 +284,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 8-2: *Introduction to Generics*
   > - [x] 8-3: *REST API with Express, JWT, Sequelize and TypeScript*
   > - [x] 8-4: *Testing Applications with TypeScript*
-  > - [x] *Project - Tribesmith*
+  > - [x] *Project - [Tribesmith*](https://github.com/carolmendescan/trybe/blob/main/TrybeSmith/README.md)
 
   </details>
 
@@ -297,7 +297,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 9-3: *Polymorphism ​*
   > - [x] 9-4: *SOLID - Introduction and Principles S, O and D ​*
   > - [x] 9-5: *SOLID - Principles L and I ​*
-  > - [x] *Project - Trybers and Dragons ​*
+  > - [x] *Project - [Trybers and Dragons​*](https://github.com/carolmendescan/trybe/blob/main/Trybers%20and%20Dragons/README.md)
 
   </details>
 
@@ -306,7 +306,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>Block 10: Trybe Futebol Club :heavy_check_mark:</summary>
 
   > - [x] 10-1: *Express with Classes*
-  > - [x] *Project - TFC - Trybe Futebol Club*
+  > - [x] *Project - [TFC - Trybe Futebol Club*](https://github.com/carolmendescan/trybe/blob/main/Trybe%20Futebol%20Club/README.md)
 
   </details>
 </details>
@@ -331,7 +331,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 2-1: *Complexity of Algorithms*
   > - [x] 2-2: *Problem Solving Recursivity and Strategies*
   > - [x] 2-3: *Ordination and search algorithms*
-  > - [x] *Project - Algorithms*
+  > - [x] *Project - [Algorithms*](https://github.com/carolmendescan/trybe/blob/main/Algorithms/README.md)
 
   </details>
 
@@ -343,7 +343,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 3-2: *Arrays*
   > - [x] 3-3: *Node and Chained Lists*
   > - [x] 3-4: *Batteries and Queues*
-  > - [x] *Project - TING - Trybe is Not Google*
+  > - [x] *Project - TING - [Trybe is Not Google*](https://github.com/carolmendescan/trybe/blob/main/TING/README.md)
 
   </details>
 
@@ -353,7 +353,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 4-1: *Hashmap and Dict*
   > - [x] 4-2: *Set*
-  > - [x] *Project - Restaurant Orders Project*
+  > - [x] *Project - [Restaurant Orders Project*](https://github.com/carolmendescan/trybe/blob/main/Restaurant%20Orders/README.md)
 
   </details>
 </details>
